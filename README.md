@@ -56,3 +56,22 @@ To turn every space into a place where nature, creativity, and people can grow t
 
 
 <b> <i> “From classrooms to cafés, from homes to hotels, and from events to communities, Bloomora brings your green vision to life.” 💚<b><i>
+
+
+# product catalogue
+
+| S.NO |  NAME | IMAGE |
+| ----- | --------- | -------- |
+| 1 |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+| 6 |
+| 7 |
+| 8 |
+| 9 |
+| 10 |
+
+
+<b> <i> there are so many other rare plant in our garden  so vist our place to explore all the plant <b> <i>
