@@ -62,7 +62,7 @@ To turn every space into a place where nature, creativity, and people can grow t
 
 | S.NO |  NAME | IMAGE |
 | ----- | --------- | -------- |
-| 1 |
+| 1 | rose |  
 | 2 |
 | 3 |
 | 4 |
