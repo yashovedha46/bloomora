@@ -7,23 +7,23 @@ Company Name: 🌿 Bloomora 🪴<br>
 
 Tagline: “Turning Dreams into Green Spaces.”<br>
 
-About Us<br>
+### About Us<br>
 
 Bloomora 🌿 is a green décor and plant-solutions company that transforms ordinary spaces into beautiful, refreshing, and eco-friendly environments. We bring our customers’ ideas to life through creative plant arrangements and customized green décor.<br>
 
-Vision<br>
+### Vision<br>
 
 To create greener, healthier, and more beautiful spaces by bringing people closer to nature through creative and eco-friendly plant solutions.<br>
 
 
 
-Mission<br>
+### Mission<br>
 
 To turn every space into a place where nature, creativity, and people can grow together.<br>
 
 
 
-Benefits & Application Areas 🪴<br>
+### Benefits & Application Areas 🪴<br>
 
 1. 🏨 Hotels – Decorate reception areas, rooms, balconies, and common spaces with suitable plants.<br>
 
@@ -55,4 +55,4 @@ Benefits & Application Areas 🪴<br>
 10. 🌿 Special Occasions – Provide customized plant arrangements and plant-based gifts for birthdays, weddings, college functions, corporate events, and celebrations.<br>
 
 
- “From classrooms to cafés, from homes to hotels, and from events to communities, Bloomora brings your green vision to life.” 💚
+<b> <i> “From classrooms to cafés, from homes to hotels, and from events to communities, Bloomora brings your green vision to life.” 💚<b><i>
