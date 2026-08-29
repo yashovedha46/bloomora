@@ -79,10 +79,9 @@ To turn every space into a place where nature, creativity, and people can grow t
 | 4 | Zinnia | <img width="216" height="325" alt="image" src="https://github.com/user-attachments/assets/d5b70383-4705-4f6d-bff3-db37e0433bdb" /> |
 | 5 | Passiflora | <img width="295" height="295" alt="image" src="https://github.com/user-attachments/assets/f5202464-f95c-467b-812b-352d24023522" /> |
 | 6 | Puchsia Pink Marshmallow | <img width="240" height="295" alt="image" src="https://github.com/user-attachments/assets/2423dc4c-c112-4cdb-a2ac-148182b706bc" /> |
-| 7 | Thislet | <img [Uploading image.png…]() |
+| 7 | Thislet | <img width="222" height="145" alt="image" src="https://github.com/user-attachments/assets/5ecbeed6-eac7-4e38-a02c-424d300aa0ba" /> |
 | 8 | Tiger Lily | https://share.google/KCPs0Q5mPiZfPT6No |
 | 9 | white Lily | ![Uploading image.png…]() |
-
 | 10 | Red Spider Lily |<img width="295" height="295" alt="image" src="https://github.com/user-attachments/assets/18299ac6-b880-4048-a3b7-da986ae3b41f" /> |
 
 
