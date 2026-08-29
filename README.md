@@ -23,7 +23,7 @@ To turn every space into a place where nature, creativity, and people can grow t
 
 
 
-###iBenefits & Application Areas 🪴<br>
+### 📶Benefits & Application Areas 🪴<br>
 
 1. 🏨<b><i> Hotels<b>– Decorate reception areas, rooms, balconies, and common spaces with suitable plants.<br>
 
