@@ -82,7 +82,8 @@ To turn every space into a place where nature, creativity, and people can grow t
 | 6 | Puchsia Pink Marshmallow | <img width="240" height="295" alt="image" src="https://github.com/user-attachments/assets/2423dc4c-c112-4cdb-a2ac-148182b706bc" /> |
 | 7 | Thislet | <img [Uploading image.png…]() |
 | 8 | Tiger Lily | https://share.google/KCPs0Q5mPiZfPT6No |
-| 9 | white Lily | https://share.google/MMRB83yawK06nhbQG |
+| 9 | white Lily | ![Uploading image.png…]() |
+
 | 10 | Red Spider Lily |<img width="295" height="295" alt="image" src="https://github.com/user-attachments/assets/18299ac6-b880-4048-a3b7-da986ae3b41f" /> |
 
 
