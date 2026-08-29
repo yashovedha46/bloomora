@@ -67,7 +67,7 @@ To turn every space into a place where nature, creativity, and people can grow t
 | 2 | Philodendron Pink Princess | <img width="296" height="417" alt="image" src="https://github.com/user-attachments/assets/bc923de4-459e-4e0c-a704-ed6a67fb6536" /> |
 | 3 | Sweet Heart Hoya | <img width="244" height="325" alt="image" src="https://github.com/user-attachments/assets/8fa664dd-6855-44e5-9e87-7d0bdacd0bcc" /> |
 | 4 | Zinnia | <img width="216" height="325" alt="image" src="https://github.com/user-attachments/assets/d5b70383-4705-4f6d-bff3-db37e0433bdb" /> |
-| 5 | Passiflora | <img <img width="325" height="325" alt="image" src="https://github.com/user-attachments/assets/3be826c9-998c-4e5e-89ce-b58f18ec80c3" /> |
+| 5 | Passiflora | <img width="295" height="295" alt="image" src="https://github.com/user-attachments/assets/f5202464-f95c-467b-812b-352d24023522" /> |
 | 6 | Puchsia Pink Marshmallow | https://share.google/nZBaoYOtpbaHjzDzt |
 | 7 | Thislet | https://share.google/p82NOUCAqUui9gnfL |
 | 8 | Tiger Lily | https://share.google/KCPs0Q5mPiZfPT6No |
