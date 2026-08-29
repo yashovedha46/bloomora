@@ -66,7 +66,7 @@ To turn every space into a place where nature, creativity, and people can grow t
  https://share.google/peRkdcC5oMuPMO4SZ | 
 | 2 | Philodendron Pink Princess | <img width="296" height="417" alt="image" src="https://github.com/user-attachments/assets/bc923de4-459e-4e0c-a704-ed6a67fb6536" /> |
 | 3 | Sweet Heart Hoya | <img width="244" height="325" alt="image" src="https://github.com/user-attachments/assets/8fa664dd-6855-44e5-9e87-7d0bdacd0bcc" /> |
-| 4 | Zinnia | https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5b7f8367f2e6b191fbb627a7%2F1597868064739-4K44ZTCXAYI8DCOQJLM5%2FIMG_9034.JPG&tbnid=EV6CK4fIGUkM9M&vet=1&imgrefurl=https%3A%2F%2Fthekokorogarden.com%2Fblog%2F2020%2F8%2F19%2Fsome-tips-on-designing-with-zinnias&docid=0cbaV5EtxHpfxM&w=2500&h=3750&hl=en-US&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=c2cce55b580456cd&shem=epsd1%2Cnisbtsa2%2Cnisbtsal%2Crimspwouoe |
+| 4 | Zinnia |  |
 | 5 | Passiflora | https://share.google/kWwcB0lLKUzjsHZWk |
 | 6 | Puchsia Pink Marshmallow | https://share.google/nZBaoYOtpbaHjzDzt |
 | 7 | Thislet | https://share.google/p82NOUCAqUui9gnfL |
