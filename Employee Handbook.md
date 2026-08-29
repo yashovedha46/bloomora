@@ -1,4 +1,4 @@
-# 🌿 BLOOMORA-🪴 Employee Handbook<br>
+# 🌿 BLOOMORA-🪴 Employee Handbook <br>
 
  <b> <i> “Turning Dreams into Green Spaces.” 🌱✨<br>
 
