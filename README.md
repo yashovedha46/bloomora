@@ -1,7 +1,7 @@
 # 🍀 BLOOMORA
 Bloomora represents growth, harmony, and the natural beauty of plants
 Your dream of having a beautiful, green, eco-friendly space can become a reality with Bloomora.” 🌿
-## <b> repository <b>
+## <b>  🗃️ Repository <b>
 
 | REPOSITORY  NAME | DESCRIPTION |
 | ------------ | ---------- |
@@ -17,7 +17,7 @@ Company Name: 🌿 Bloomora 🪴<br>
 
 Tagline: “Turning Dreams into Green Spaces.”<br>
 
-### About Us<br>
+### 📌 About Us<br>
 
 Bloomora 🌿 is a green décor and plant-solutions company that transforms ordinary spaces into beautiful, refreshing, and eco-friendly environments. We bring our customers’ ideas to life through creative plant arrangements and customized green décor.<br>
 
