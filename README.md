@@ -73,7 +73,7 @@ To turn every space into a place where nature, creativity, and people can grow t
 
 | S.NO |  NAME | IMAGE |
 | ----- | --------- | -------- |
-| 1 | Japanese Camellia |<img width="1920" height="1072" alt="image" src="https://github.com/user-attachments/assets/c530c9a9-0414-43fd-af78-5af3b3c5ee90" /> | 
+| 1 | Japanese Camellia | <img width="321" height="200" alt="image" src="https://github.com/user-attachments/assets/a5130950-c203-4702-b5a1-bca23e7a1c7a" /> | 
 | 2 | Philodendron Pink Princess | <img width="296" height="417" alt="image" src="https://github.com/user-attachments/assets/bc923de4-459e-4e0c-a704-ed6a67fb6536" /> |
 | 3 | Sweet Heart Hoya | <img width="244" height="325" alt="image" src="https://github.com/user-attachments/assets/8fa664dd-6855-44e5-9e87-7d0bdacd0bcc" /> |
 | 4 | Zinnia | <img width="216" height="325" alt="image" src="https://github.com/user-attachments/assets/d5b70383-4705-4f6d-bff3-db37e0433bdb" /> |
