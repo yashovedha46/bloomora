@@ -1,7 +1,17 @@
 # 🍀 BLOOMORA
 Bloomora represents growth, harmony, and the natural beauty of plants
-Your dream of having a beautiful, green, eco-friendly space can become a reality with Bloomora.” 🌿✨<br>
-## 🏗️COMPANY PROFILE
+Your dream of having a beautiful, green, eco-friendly space can become a reality with Bloomora.” 🌿
+## <b> repository <b>
+
+| REPOSITORY  NAME | DESCRIPTION |
+| ------------ | ---------- |
+| Company profile | GreenGift business information |
+| Product catalogue | Mini plants & gift packages |
+| SOPs | Plant handling, order preparation, packaging |
+| Employee handbook | Employee rules & responsibilities |
+| Training documents | Plant care, packaging, customer service |
+| Business policies | Returns, cancellation, customization, delivery |
+| FAQ documentation | Customer questions & answers |
 
 Company Name: 🌿 Bloomora 🪴<br>
 
