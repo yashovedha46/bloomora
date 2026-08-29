@@ -1,6 +1,6 @@
 # 🌿 BLOOMORA-🪴 Employee Handbook <br>
 
- <b> <i> “Turning Dreams into Green Spaces.” 🌱✨<br>
+### <b> <i> “Turning Dreams into Green Spaces.” 🌱✨<br><i>
 
 
 ## 🌿 Bloomora's Promise<br>
@@ -8,7 +8,7 @@ At Bloomora, we believe that when people grow, businesses grow. And when busines
 Together, we work towards turning dreams into green spaces. 🪴✨ <b><br>
 <br>
 
-## TABLE OF CONTENT
+ ## TABLE OF CONTENT
 
 | S.NO | TOPIC | 
 | ---- | ---- 
@@ -20,9 +20,9 @@ Together, we work towards turning dreams into green spaces. 🪴✨ <b><br>
 | 6	| 📢 Employee Welfare, Grievances & Acknowledgement	 |
 
 
-### 1.	🌱 Welcome to Bloomora<br>
+## 1.	🌱 Welcome to Bloomora<br>
 
-##### Welcome to Bloomora! 🌿🪴<br>
+### Welcome to Bloomora! 🌿🪴<br>
 
 <i> We are delighted to have you as a part of the Bloomora family. Bloomora is a green décor and plant-solutions company committed to transforming ordinary spaces into beautiful, refreshing, healthy, and eco-friendly environments. 🌱🏡🏢<br>
 
@@ -30,7 +30,7 @@ We bring creativity and nature together through customized plant arrangements, g
 
 At Bloomora, we believe that our employees are one of our greatest strengths. Every person contributes to the company's growth through their skills, creativity, dedication, teamwork, and responsibility. 🤝💚<br>
 
-##### 🌿 What We Believe<br>
+### 🌿 What We Believe<br>
 
 🌱 Nature makes spaces better.<br>
 💡 Creativity brings ideas to life.<br>
@@ -41,17 +41,17 @@ At Bloomora, we believe that our employees are one of our greatest strengths. Ev
 
 This Employee Handbook is designed to help every employee understand Bloomora's workplace expectations, responsibilities, policies, and values. 📖<br>
 
-##### 🪴 Grow With Bloomora<br>
+### 🪴 Grow With Bloomora<br>
 
 At Bloomora, employees are encouraged to learn, share ideas, develop their skills, and grow along with the organization. 🌱📈
 Welcome to the team, and let's grow together! 🌿💚✨<br>
 
-### 2. 🌿 About Bloomora – Vision, Mission & Values<br>
+## 2. 🌿 About Bloomora – Vision, Mission & Values<br>
 
-##### 🏡 About Bloomora<br>
+### 🏡 About Bloomora<br>
 
 Bloomora is a green décor and plant-solutions company that transforms ordinary spaces into beautiful, refreshing, and eco-friendly environments.<br>
-##### Our services include:<br>
+### Our services include:<br>
 
 🪴 Creative plant arrangements<br>
 🎨 Customized green décor<br>
@@ -61,14 +61,14 @@ Bloomora is a green décor and plant-solutions company that transforms ordinary 
 🎉 Event and occasion-based green décor<br>
 💡 Green-space consultation<br>
 
-##### 👁️ Vision<br>
+### 👁️ Vision<br>
 
 To create greener, healthier, and more beautiful spaces by bringing people closer to nature. 🌍🌱<br>
 
-##### 🎯 Mission<br>
+### 🎯 Mission<br>
 To provide innovative and customized green décor solutions while promoting sustainable and environmentally responsible practices. ♻️🌿<br>
 
-##### 💚 Core Values<br>
+### 💚 Core Values<br>
 
 🌱 Sustainability – Respecting nature and reducing unnecessary waste.<br>
 💡 Creativity – Developing unique and attractive green décor ideas.<br>
@@ -79,11 +79,11 @@ To provide innovative and customized green décor solutions while promoting sust
 
 
 
-### 3. 👩‍💼 Employee Responsibilities, Workplace Rules & Conduct<br>
+## 3. 👩‍💼 Employee Responsibilities, Workplace Rules & Conduct<br>
 
 Every employee is responsible for contributing positively to Bloomora's workplace. 🌿<br>
 
-##### ✅ Employees should:<br>
+### ✅ Employees should:<br>
 
 ⏰ Complete assigned work on time.<br>
 📋 Follow instructions from supervisors.<br>
@@ -95,7 +95,7 @@ Every employee is responsible for contributing positively to Bloomora's workplac
 📌 Follow company policies and procedures.<br>
 💡 Share useful ideas and suggestions.<br>
 
-##### 🤍 Professional Conduct<br>
+### 🤍 Professional Conduct<br>
 
 <b> Employees are expected to maintain honesty, integrity, discipline, and professionalism at work.
 
@@ -111,13 +111,13 @@ Bloomora promotes a workplace free from:<b><br>
 
 Employees should respect different opinions, maintain appropriate behaviour, and contribute to a positive working environment. 🤝💚<br>
 
-##### 🔒 Confidentiality<br>
+### 🔒 Confidentiality<br>
 
 Employees must protect confidential company and customer information and should not share it with unauthorized individuals.<br>
 
-### 4. ⏰ Attendance, Leave, Safety & Plant Care<br>
+## 4. ⏰ Attendance, Leave, Safety & Plant Care<br>
 
-##### 📅 Attendance<br>
+### 📅 Attendance<br>
 
 Employees are expected to:<br>
 
@@ -127,13 +127,13 @@ Employees are expected to:<br>
 🚫 Avoid unauthorized absence.<br>
 📝 Follow the company's attendance procedure.<br>
 
-##### 🏖️ Leave<br>
+### 🏖️ Leave<br>
 
 Employees who require leave should follow the appropriate leave procedure. Emergency leave should be communicated to the supervisor as soon as possible.<br>
 
 Leave approval depends on company policy and operational requirements.<br>
 
-##### 🦺 Workplace Safety<br>
+### 🦺 Workplace Safety<br>
 
 Employees should follow appropriate safety practices while:<br>
 
@@ -146,7 +146,7 @@ Employees should follow appropriate safety practices while:<br>
 
 Protective equipment such as gloves, masks, and suitable footwear should be used when required. 🧤<br>
 
-##### 🌱 Plant Care<br>
+### 🌱 Plant Care<br>
 
 Employees involved in plant maintenance should ensure proper:<br>
 
@@ -156,13 +156,13 @@ Damaged, diseased, or unhealthy plants should be reported promptly.<br>
 
 ⚠️ Any accident, injury, equipment damage, or unsafe condition should be reported to the responsible supervisor or management.<br>
 
-### 5. 💚 Customer Service, Communication & Employee Growth<br>
+## 5. 💚 Customer Service, Communication & Employee Growth<br>
 
-##### 😊 Customer Service<br>
+### 😊 Customer Service<br>
 
 Customers are an important part of Bloomora's success. Employees should provide friendly, professional, and reliable service.<br>
 
-##### Employees should:<br>
+### Employees should:<br>
 
 👋 Greet customers politely.<br>
 👂 Listen carefully to their requirements.<br>
@@ -174,15 +174,15 @@ Customers are an important part of Bloomora's success. Employees should provide 
 
 Employees should not make unauthorized promises regarding prices, discounts, services, or delivery dates.<br>
 
-##### 💬 Communication<br>
+### 💬 Communication<br>
 
 Communication between employees, supervisors, and customers should be clear, respectful, and professional.<br>
 
 Important project information should be communicated properly to avoid misunderstandings and mistakes. 📋✅<br>
 
-##### 🎓 Training & Development<br>
+### 🎓 Training & Development<br>
 
-###### Bloomora encourages employees to develop their skills through training in:<br>
+#### Bloomora encourages employees to develop their skills through training in:<br>
 
 🌱 Plant identification and care<br>
 🎨 Green décor<br>
@@ -193,7 +193,7 @@ Important project information should be communicated properly to avoid misunders
 💻 Digital tools<br>
 📈 Performance<br>
 
-###### Employee performance may be evaluated based on:<br>
+#### Employee performance may be evaluated based on:<br>
 
 ⭐ Quality<br>
 📊 Productivity<br>
@@ -206,12 +206,12 @@ Important project information should be communicated properly to avoid misunders
 
 Good performance and continuous improvement may lead to recognition, increased responsibilities, and career-growth opportunities. 🚀🌱<br>
 
-### 6. 📢 Employee Welfare, Grievances & Acknowledgement<br>
+## 6. 📢 Employee Welfare, Grievances & Acknowledgement<br>
 
-##### ❤️ Employee Welfare<br>
+### ❤️ Employee Welfare<br>
 Bloomora aims to create a safe, supportive, respectful, and positive workplace. 🌿<br>
 
-##### The company encourages:<br>
+### The company encourages:<br>
 
 🤝 Healthy teamwork<br>
 😊 Positive relationships<br>
@@ -220,7 +220,7 @@ Bloomora aims to create a safe, supportive, respectful, and positive workplace. 
 ⚖️ Fair treatment<br>
 💬 Open communication<br>
 
-##### 📢 Employee Grievances<br>
+### 📢 Employee Grievances<br>
 
 Employees who have workplace concerns should first communicate with their immediate supervisor or the appropriate management representative.<br>
 
@@ -228,11 +228,11 @@ If the issue cannot be resolved, it may be escalated through the company's griev
 
 All complaints should be handled fairly and respectfully. <br>
 
-##### 🚪+ Resignation & Exit<br>
+### 🚪+ Resignation & Exit<br>
 
 Employees leaving Bloomora should follow the applicable resignation and notice procedures.<br>
 
-###### They should:<br>
+#### They should:<br>
 
 📋 Complete pending responsibilities<br>
 🤝 Hand over important work.<br>
@@ -240,7 +240,7 @@ Employees leaving Bloomora should follow the applicable resignation and notice p
 📄 Return documents or equipment.<br>
 ✅ Complete the required exit procedures.<br>
 
-##### 📄 Employee Acknowledgement<br>
+### 📄 Employee Acknowledgement<br>
 
 I acknowledge that I have received and read the Bloomora Employee Handbook. I understand the general policies, responsibilities, workplace expectations, and procedures described in it. I agree to follow the applicable rules and guidelines of Bloomora. 🌿🤝<br>
 
@@ -253,6 +253,12 @@ I acknowledge that I have received and read the Bloomora Employee Handbook. I un
 📅 Date: _______________________________<br>
 
 
-<b>Thank you<br>
-Bloomora<b><i>
+
+<br>
+<br>
+<br>
+
+
+#### <b>Thank you<br>
+#### Bloomora<b><i>
 
