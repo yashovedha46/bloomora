@@ -83,7 +83,8 @@ To turn every space into a place where nature, creativity, and people can grow t
 | 7 | Thislet | <img [Uploading image.png…]() |
 | 8 | Tiger Lily | https://share.google/KCPs0Q5mPiZfPT6No |
 | 9 | white Lily | https://share.google/MMRB83yawK06nhbQG |
-| 10 | Red Spider Lily | https://www.amazon.in/FernsFly%EF%BF%BD-Attractive-Flowering-Gardening-Blooming/dp/B08XNVBQN4 |
+| 10 | Red Spider Lily |<img width="295" height="295" alt="image" src="https://github.com/user-attachments/assets/18299ac6-b880-4048-a3b7-da986ae3b41f" /> |
+
 
 
 <b> <i> there are so many other rare plant in our garden and official website so w visit our place and website to explore all thee plants <b> <i>
