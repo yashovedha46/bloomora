@@ -1,2 +1,1 @@
-# company Name : Bloomora
-# bloomora
+# Company Name : BLOOMORA 🍀
