@@ -2,7 +2,7 @@
 
 <b>Tagline: “Turning Dreams into Green Spaces🌿.”<br><b>
 
-##📌 About as : <br>
+## 📌About as : <br>
 <i>🍀Bloomora is a creative and eco-friendly plant company that focuses on providing beautiful mini plants for everyday spaces. Our aim is to bring nature closer to people through our products and services. We offer a variety of attractive, healthy, and easy-to-maintain plants that are suitable for homes, offices, classrooms, and small spaces. We believe that plants can make any environment fresh, beautiful, and positive.
 
 🌿Bloomora carefully selects plants based on quality, appearance, and suitability. Our products are designed for people who love nature and want to add greenery to their surroundings. We also provide mini plants as unique and meaningful gifts for birthdays, celebrations, and special occasions🎁. We focus on creating attractive plant arrangements with creativity and care.
