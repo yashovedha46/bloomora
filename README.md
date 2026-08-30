@@ -16,7 +16,7 @@ Your dream of having a beautiful, green, eco-friendly space can become a reality
 ## 🏗️ Company Profile
 Company Name: 🌿 Bloomora 🪴<br>
 
-Tagline: “Turning Dreams into Green Spaces.”<br>
+Tagline: “Turning Dreams into Green Spaces🌿.”<br>
 
 ### 📌 About Us<br>
 
