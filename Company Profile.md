@@ -61,7 +61,7 @@
 
 ## FROM ONE TITTLE PLANT TO A HOLE GREEN SPACEB 🌲<i>
 
-Thank yoy .......
+## Thank You .......
 
 
 
