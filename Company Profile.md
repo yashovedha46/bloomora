@@ -1,4 +1,4 @@
-# Company Name : BLOOMORA 🍀
+     # Company Name : BLOOMORA 🍀
 
 <b>Tagline: “Turning Dreams into Green Spaces🌿.”<br><b>
 
