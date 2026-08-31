@@ -1,4 +1,4 @@
-                                            # 🍀 BLOOMORA
+🍀 BLOOMORA
 Bloomora represents growth, harmony, and the natural beauty of plants
 Your dream of having a beautiful, green, eco-friendly space can become a reality with Bloomora.” 🌿
 ## <b>  🗃️ Repository <b>
@@ -60,7 +60,7 @@ To turn every space into a place where nature, creativity, and people can grow t
 8. 🏬 Shops & Commercial Spaces<b> – Use plants to make entrances, display areas, and customer spaces more attractive.<br>
 
 
-9. 🏘️ Residential Communities<b> – Add greenery to common areas, entrances, walkways, and community spaces.<br>
+9. 🏘️ Residential Communities<b> – Add greenery to common areas, entrances, walkways, and community spaces.<br> 
 
 
 10. 🌿 Special Occasions <b>– Provide customized plant arrangements and plant-based gifts for birthdays, weddings, college functions, corporate events, and celebrations.<br><i>
