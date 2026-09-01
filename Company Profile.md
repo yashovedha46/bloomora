@@ -4,7 +4,8 @@
 
 ## 📌About us : <br>
 
-<img width="100" height="201" alt="image" src="https://github.com/user-attachments/assets/68c125c9-8649-4861-83fa-a618ce446674" />                    <img width="113" height="201" alt="image" src="https://github.com/user-attachments/assets/3341c8d2-45b8-4ae0-aecd-21d135123e3f" />
+<img width="100" height="201" alt="image" src="https://github.com/user-attachments/assets/68c125c9-8649-4861-83fa-a618ce446674" />                    <img width="162" height="289" alt="image" src="https://github.com/user-attachments/assets/9fa6cd40-d63f-4674-a39a-47032107c5ca" />
+
 
 
 <img width="301" height="201" alt="image" src="https://github.com/user-attachments/assets/d4595d53-871e-4761-aa4d-6f0f87fe9d4d" />                                     <img width="296" height="201" alt="image" src="https://github.com/user-attachments/assets/c056c5f5-6c1c-458f-bdf3-fc8bcd9994ec" />
