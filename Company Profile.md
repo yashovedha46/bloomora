@@ -3,6 +3,10 @@
 <b>Tagline: “Turning Dreams into Green Spaces🌿.”<br><b>
 
 ## 📌About us : <br>
+
+<img width="100" height="201" alt="image" src="https://github.com/user-attachments/assets/68c125c9-8649-4861-83fa-a618ce446674" />                    <img width="113" height="201" alt="image" src="https://github.com/user-attachments/assets/3341c8d2-45b8-4ae0-aecd-21d135123e3f" />
+
+
 <img width="301" height="201" alt="image" src="https://github.com/user-attachments/assets/d4595d53-871e-4761-aa4d-6f0f87fe9d4d" />                                     <img width="296" height="201" alt="image" src="https://github.com/user-attachments/assets/c056c5f5-6c1c-458f-bdf3-fc8bcd9994ec" />
                   
 <i>🍀Bloomora is a creative and eco-friendly plant company that focuses on providing beautiful mini plants for everyday spaces. Our aim is to bring nature closer to people through our products and services. We offer a variety of attractive, healthy, and easy-to-maintain plants that are suitable for homes, offices, classrooms, and small spaces. We believe that plants can make any environment fresh, beautiful, and positive.
