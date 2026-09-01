@@ -4,7 +4,6 @@
 
 ## 📌About us : <br>
 <img width="301" height="201" alt="image" src="https://github.com/user-attachments/assets/d4595d53-871e-4761-aa4d-6f0f87fe9d4d" />                                                          <img width="262" height="177" alt="image" src="https://github.com/user-attachments/assets/679402fd-5377-4187-9f8a-80810974af35" />
-<img width="262" height="177" alt="image" src="https://github.com/user-attachments/assets/236b29e6-f4f4-4900-9af2-8ed5368ca5e4" />              
 
                                         
 
