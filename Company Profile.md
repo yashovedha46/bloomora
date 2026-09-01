@@ -19,7 +19,7 @@
 ## 👀Vision :
 
 <i>🌱To become a trusted and creative plant brand that brings nature closer to everyone by providing beautiful, affordable, and eco-friendly mini plants, while inspiring people to create greener and happier spaces. <i>
-## Mission :
+## 📌 Mission :
 “Our mission is to bring nature closer to people by providing quality, affordable, and beautiful mini plants while promoting a greener and healthier lifestyle.”🌿<i>
 
 ## Service :
